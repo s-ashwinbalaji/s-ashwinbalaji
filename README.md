@@ -20,7 +20,7 @@
 
 ### Hello, I'm Ashwin Balaji!
 
-I am an aspiring **Cybersecurity Engineer** and **Cloud Security Architect** currently studying at **Singapore Polytechnic**. I specialize in defensive security operations, hardening enterprise infrastructure, and automating network threat detection.
+I am an aspiring **Cybersecurity Engineer** and **Cloud Security Architect** currently studying at **Singapore Polytechnic**.
 
 - 🎓 **Education**: Pursuing a Diploma in **Cybersecurity & Digital Forensics** at Singapore Polytechnic (2024 - 2027).
 - 💼 **Professional Experience**: Currently interning as an **Operations Support System Engineer** at **NSL Ltd** (Singapore).
