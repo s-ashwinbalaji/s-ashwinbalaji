@@ -4,13 +4,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashwinbalaji-suresh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashwin_Balaji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff99?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a24" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:sashwinbalaji7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sashwinbalaji7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-00ff99?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a24" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/yrfav_ash_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-yrfav__ash-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-00ff99?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1a24" alt="Instagram" />
   </a>
 </p>
 
