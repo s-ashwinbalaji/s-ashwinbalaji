@@ -33,15 +33,50 @@ I am an aspiring **Cybersecurity Engineer** and **Cloud Security Architect** cur
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,bash,powershell,html,css,linux,aws,azure,git,github" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Specialized Cyber Security Toolkit:</strong> Wireshark &bull; Splunk SIEM &bull; Volatility 3 &bull; Autopsy &bull; Ghidra &bull; Snort &bull; Scapy
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages</h4>
+      <ul>
+        <li>🐍 <b>Python</b> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" valign="middle" /></li>
+        <li>🐚 <b>Bash</b> &nbsp; <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" valign="middle" /></li>
+        <li>💙 <b>PowerShell</b> &nbsp; <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" valign="middle" /></li>
+        <li>🟨 <b>JavaScript</b> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" valign="middle" /></li>
+        <li>☕ <b>Java</b> &nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" valign="middle" /></li>
+        <li>🌐 <b>HTML5</b> &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" valign="middle" /></li>
+        <li>🎨 <b>CSS3</b> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" valign="middle" /></li>
+      </ul>
+      <h4>🌐 Networking</h4>
+      <ul>
+        <li>🌐 <b>Cisco</b> &nbsp; <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" valign="middle" /></li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🛡️ Cybersecurity</h4>
+      <ul>
+        <li>🦈 <b>Wireshark</b> &nbsp; <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" valign="middle" /></li>
+        <li>📡 <b>Nmap</b> &nbsp; <img src="https://img.shields.io/badge/Nmap-343A40?style=flat-square&logo=nmap&logoColor=white" valign="middle" /></li>
+        <li>🟠 <b>Burp Suite</b> &nbsp; <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" valign="middle" /></li>
+        <li>💣 <b>Metasploit</b> &nbsp; <img src="https://img.shields.io/badge/Metasploit-343A40?style=flat-square&logo=metasploit&logoColor=white" valign="middle" /></li>
+        <li>🔍 <b>Splunk</b> &nbsp; <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" valign="middle" /></li>
+        <li>🛡️ <b>Wazuh</b> &nbsp; <img src="https://img.shields.io/badge/Wazuh-00A4E4?style=flat-square&logo=wazuh&logoColor=white" valign="middle" /></li>
+        <li>🧩 <b>YARA</b> &nbsp; <img src="https://img.shields.io/badge/YARA-343A40?style=flat-square&logoColor=white" valign="middle" /></li>
+      </ul>
+      <h4>🖥️ Systems & DevOps</h4>
+      <ul>
+        <li>🪟 <b>Windows</b> &nbsp; <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" valign="middle" /></li>
+        <li>🖥️ <b>Windows Server</b> &nbsp; <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" valign="middle" /></li>
+        <li>🛡️ <b>Active Directory</b> &nbsp; <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white" valign="middle" /></li>
+        <li>💼 <b>Microsoft 365</b> &nbsp; <img src="https://img.shields.io/badge/Microsoft_365-0078D6?style=flat-square&logo=microsoft&logoColor=white" valign="middle" /></li>
+        <li>🐧 <b>Linux (Ubuntu/Kali)</b> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" valign="middle" /></li>
+        <li>📁 <b>Git</b> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" valign="middle" /></li>
+        <li>🐙 <b>GitHub</b> &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" valign="middle" /></li>
+        <li>🐳 <b>Docker</b> &nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" valign="middle" /></li>
+        <li>🖥️ <b>VMware</b> &nbsp; <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" valign="middle" /></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
