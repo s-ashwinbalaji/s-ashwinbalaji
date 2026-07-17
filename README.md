@@ -77,13 +77,7 @@ I am an aspiring **Cybersecurity Engineer** and **Cloud Security Architect** cur
 
 ---
 
-### 📊 GitHub Statistics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-ashwinbalaji&show_icons=true&theme=tokyonight&bg_color=080810&title_color=00ff99&icon_color=00ff99&text_color=ffffff" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-ashwinbalaji&layout=compact&theme=tokyonight&bg_color=080810&title_color=00ff99&text_color=ffffff" height="180" alt="Top Languages" />
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-ashwinbalaji&bg_color=080810&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
