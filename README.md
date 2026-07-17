@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Ashwin Balaji Banner" width="100%" />
+  <img src="banner.png" alt="Ashwin Balaji Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-### 👋 Hello, I'm Ashwin Balaji!
+### Hello, I'm Ashwin Balaji!
 
 I am an aspiring **Cybersecurity Engineer** and **Cloud Security Architect** currently studying at **Singapore Polytechnic**. I specialize in defensive security operations, hardening enterprise infrastructure, and automating network threat detection.
 
