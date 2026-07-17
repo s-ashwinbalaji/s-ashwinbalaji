@@ -50,10 +50,11 @@ I am an aspiring **Cybersecurity Engineer** and **Cloud Security Architect** cur
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Nmap-343A40?style=for-the-badge&logo=nmap&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Metasploit-343A40?style=for-the-badge&logo=metasploit&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Wazuh-00A4E4?style=for-the-badge&logo=wazuh&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/YARA-343A40?style=for-the-badge&logo=yara&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/Ghidra-3A8E9E?style=for-the-badge&logo=ghidra&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/IDA_Free-005577?style=for-the-badge" height="40" />
+      <img src="https://img.shields.io/badge/Volatility-4F8F00?style=for-the-badge" height="40" />
+      <img src="https://img.shields.io/badge/BitLocker-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/VirusTotal-3949AB?style=for-the-badge&logo=virustotal&logoColor=white" height="40" />
     </td>
   </tr>
   <tr>
@@ -66,6 +67,7 @@ I am an aspiring **Cybersecurity Engineer** and **Cloud Security Architect** cur
       <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Microsoft_365-0078D6?style=for-the-badge&logo=microsoft-365&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="40" />
     </td>
   </tr>
