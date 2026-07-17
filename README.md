@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Ashwin Balaji Banner" width="100%" />
+  <img src="banner.jpg" alt="Ashwin Balaji Banner" width="100%" />
 </p>
 
 <p align="center">
