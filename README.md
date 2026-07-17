@@ -27,38 +27,34 @@ I am an aspiring **Cybersecurity Engineer** and **Cloud Security Architect** cur
 
 ---
 
-### 🛠️ Tech Stack & Cyber Security Toolkit
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Always+securing%2C+always+learning" alt="Typing SVG" />
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>💻 Languages & Core Admin</h4>
-      <img src="https://skillicons.dev/icons?i=py,js,bash,powershell,html,css,git,github" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🛡️ Platforms & Security Systems</h4>
-      <img src="https://skillicons.dev/icons?i=linux,aws,azure" />
-      <br />
-      <strong>DFIR & Analysis Tools:</strong>
-      <ul>
-        <li>Wireshark / Packet Capture Audits</li>
-        <li>Splunk SIEM (Log Triage & Threat Monitoring)</li>
-        <li>Volatility 3 & Autopsy (Digital Forensics)</li>
-        <li>Ghidra & x64dbg (Reverse Engineering)</li>
-        <li>Snort & Scapy (Network Intrusion Detection)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,bash,powershell,html,css,linux,aws,azure,git,github" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Specialized Cyber Security Toolkit:</strong> Wireshark &bull; Splunk SIEM &bull; Volatility 3 &bull; Autopsy &bull; Ghidra &bull; Snort &bull; Scapy
+</p>
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s-ashwinbalaji&show_icons=true&theme=tokyonight&bg_color=080810&title_color=00ff99&icon_color=00ff99&text_color=ffffff" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-ashwinbalaji&layout=compact&theme=tokyonight&bg_color=080810&title_color=00ff99&text_color=ffffff" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-ashwinbalaji&bg_color=080810&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
